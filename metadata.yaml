@@ -1,0 +1,32 @@
+_repo: Sweetapple-Cove_13396
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Schaick, George
+    aliases:
+    - Schaick, George van
+    - Van Schaick, George Gray
+    birthdate: 1861
+    deathdate: 1924
+    gutenberg_agent_id: '5035'
+    url: http://www.gutenberg.org/2009/agents/5035
+description: ''
+gutenberg_issued: '2004-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing villages -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Newfoundland and Labrador -- Fiction'
+title: Sweetapple Cove
+url: http://www.gutenberg.org/ebooks/13396
